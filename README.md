@@ -66,7 +66,7 @@ Tendo como base, de ideia e de estrutura de dados, os arquivos do projeto <a hre
 
    <summary>Projeto funcionando</summary>
    <br/>
-   <a href="" target="_blank">Fique focado, com seu tema predileto!</a>
+   <a href="https://vmpilustra.github.io/Focus-timer-Modes/" target="_blank">Fique focado, com seu tema predileto!</a>
 
  </details>
  
